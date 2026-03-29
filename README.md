@@ -1,5 +1,5 @@
-<div style="text-align: center;">
 # Hello!
+
   This is my GitHub page, where you will see all of my creations. \
   I like programming for fun, but I also mess around with hardware. \
   I have hacked many of my older consoles for example. 
@@ -13,5 +13,4 @@
   4. CSS
   5. Javascript
   6. C++
-
-</div>
+Also this damn README is in WIP so just wait for me to make it look nice..
