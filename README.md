@@ -1,16 +1,17 @@
-## Hi there 👋
+<div style="text-align: center;">
+# Hello!
+  This is my GitHub page, where you will see all of my creations. \
+  I like programming for fun, but I also mess around with hardware. \
+  I have hacked many of my older consoles for example. 
 
-<!--
-**BojanglesTheJangle/BojanglesTheJangle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+  
+  ### Here are some languages I have learnt or messed around with:
+  1. Lua (and Luau)
+  2. Python
+  3. HTML
+  4. CSS
+  5. Javascript
+  6. C++
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
